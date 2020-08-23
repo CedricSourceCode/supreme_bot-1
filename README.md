@@ -28,10 +28,10 @@ output:
   note:
   			
 	there is no cancellation or return functionality once an 
-        item is searched for so you can build it and make it more user friendly :)
+        item is searched for so you can build it and make it more user friendly
         
 	if multiple products contain the user search term it will try to add 
-        each item to the cart which is functionality that can also be changed by you :)
+        each item to the cart which is functionality that can also be changed by you
    
 	this script is based on current html and css being scraped so it must 
         be adjusted if supreme updates the site
