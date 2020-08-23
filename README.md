@@ -11,7 +11,14 @@ run:
       	execute script by clicking anywhere on the screen to initiate the search prompt.
       
       	enter a supreme item to search for
-      
+	
+input:
+
+	hardcoded shipping and billing information required for checkout
+	update these value yourself in the script
+
+output:
+
 	if the search item is found it will open the product 
   	in a new tab add to cart and fill out the form
           
