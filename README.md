@@ -6,7 +6,7 @@ supreme auto check out bot written in javascript by @menascii
    
    	run script on browser and go to https://www.supremenewyork.com/shop/all
 	
-        tools like greasemonkey make it easy to run scripts on the browser
+        tools like greasemonkey make it simple to run scripts on the browser
 	
       	execute script by clicking anywhere on the screen to initiate the search prompt
 	
