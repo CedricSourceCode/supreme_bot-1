@@ -1,6 +1,7 @@
 # supreme_bot
 
 supreme auto check out bot written in javascript by @menascii
+
 run:
    			
 	run script on browser and go to https://www.supremenewyork.com/shop/all
