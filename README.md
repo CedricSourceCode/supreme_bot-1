@@ -4,7 +4,7 @@ supreme auto check out bot written in javascript by @menascii
 	 
    run:
    
-   	run script on browser and go to https://www.supremenewyork.com/shop/all.
+   	run script on browser and go to https://www.supremenewyork.com/shop/all
 	
         tools like greasemonkey make it easy to run scripts on the browser.
 	
