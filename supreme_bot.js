@@ -242,7 +242,7 @@ function fillForm()
   document.getElementById('bo').value = '123 home address';
   document.getElementById('oba3').value = '#2';
   document.getElementById('order_billing_zip').value = '99000';
-  document.getElementById('order_billing_city').value = 'Los Angeles';
+  document.getElementById('order_billing_city').value = 'Whittier';
   document.getElementById('order_billing_state').value = 'CA';
   document.getElementById('order_billing_country').value = 'USA';
   document.getElementById('rnsnckrn').value = 12312312312312323;
