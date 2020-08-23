@@ -15,7 +15,7 @@ run:
 input:
 
 	hardcoded shipping and billing information required for checkout
-	update these value yourself in the script
+	update these values yourself in the script
 
 output:
 
