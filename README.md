@@ -34,6 +34,6 @@ output:
         each item to the cart which is functionality that can also be changed by you :)
    
 	this script is based on current html and css being scraped so it must 
-        be adjusted if supreme updates the site. 
+        be adjusted if supreme updates the site
 
         google dom manipulation in javascript to learn more and make this program better
