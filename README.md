@@ -8,11 +8,11 @@ supreme auto check out bot written in javascript by @menascii
 	
         tools like greasemonkey make it simple to run scripts on the browser
 	
-      	execute script by clicking anywhere on the screen to initiate the search prompt
+        execute script by clicking anywhere on the screen to initiate the search prompt
 	
-      	enter a supreme item to search for
+        enter a supreme item to search for
 	
-	if the search item is found it will open the product in a new tab add it to cart and fill out the form
+        if the search item is found it will open the product in a new tab add it to cart and fill out the form
 	
         if the search item is not found it will reload the page and search again (this is to mimic refresh for new drops)
           
